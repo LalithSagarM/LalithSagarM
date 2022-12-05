@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @LalithSagarM
 - 👀 I’m interested in Data Exploration, Analytics and, Visualization.
+-    I am a self taught data anlyst through multiple certifications and projects that I display thorugh my GitHub repositories
 -    I love writing, and I consider myself a natural story-teller.
 - 🌱 I’m currently learning Python and use of Pandas for data exploration.
 - 📫 How to reach me: lalitsagar44@gmail.com
